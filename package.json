@@ -26,9 +26,6 @@
   "engines": {
     "node": "18"
   },
-  "prisma": {
-    "seed": "ts-node prisma/seed.ts"
-  },
   "private": true,
   "scripts": {
     "build": "tsc",
