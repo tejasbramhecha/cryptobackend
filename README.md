@@ -1,0 +1,5 @@
+# FomoFactory Assignment
+
+
+## Purpose
+
